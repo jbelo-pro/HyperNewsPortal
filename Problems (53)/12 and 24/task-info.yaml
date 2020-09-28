@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    from datetime import datetime
+
+
+    def format_time(datetime_obj):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9820
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9820">JetBrains
+    Academy</a></html>
+  time: Sun, 27 Sep 2020 11:00:28 UTC
+record: -1

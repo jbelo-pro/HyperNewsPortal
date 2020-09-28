@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    template = """
+    <form action="like" method="post">
+      <input type="submit" value="👍">
+    </form>
+    """
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10005
+status: Solved
+record: -1
